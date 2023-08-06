@@ -1,0 +1,3 @@
+pyserial
+serial
+PyQt6
